@@ -1,4 +1,4 @@
-package com.company.baike.wiki_cn;
+package com.company.baike.wiki_cn.service;
 
 import java.net.URLEncoder;
 import java.util.ArrayList;
@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 import com.company.app.Config;
+import com.company.baike.wiki_cn.repository.MysqlReadWriteDAO;
 import com.company.utils.Log;
 import com.company.baike.wiki_cn.domain.Domain;
 import com.company.baike.wiki_cn.domain.Term;

@@ -1,9 +1,10 @@
-package com.company.baike.wiki_cn;
+package com.company.baike.wiki_cn.service;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+import com.company.baike.wiki_cn.repository.MysqlReadWriteDAO;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 

@@ -1,4 +1,4 @@
-package com.company.baike.wiki_cn;
+package com.company.baike.wiki_cn.service;
 
 import com.company.utils.Log;
 
