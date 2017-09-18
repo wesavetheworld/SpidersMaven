@@ -1,4 +1,4 @@
-package com.company.baike.wiki_cn;
+package com.company.baike.wiki_cn.service;
 
 import java.util.HashMap;
 import java.util.LinkedList;
